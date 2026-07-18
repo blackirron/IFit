@@ -66,8 +66,8 @@ Deployed on [Render](https://render.com):
 
 See `replit-to-github-deploy-guide.md` for the full migration and deployment process this project followed, from Replit export through to a live Render deployment.
 
-<img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/1c9a45f4-045e-4e34-b5cf-5044ff119244" />
-
 ## Project Origin
 
 Originally built as a Replit Agent project, migrated to a standalone GitHub repository and redeployed on Render for full ownership of the codebase and infrastructure.
+
+<img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/1c9a45f4-045e-4e34-b5cf-5044ff119244" />
